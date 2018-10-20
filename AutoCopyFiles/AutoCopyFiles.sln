@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCopyFiles", "AutoCopyFiles.csproj", "{2A0FD27A-EC8E-4AF4-B9A2-E1BB02D77303}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A0FD27A-EC8E-4AF4-B9A2-E1BB02D77303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0FD27A-EC8E-4AF4-B9A2-E1BB02D77303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0FD27A-EC8E-4AF4-B9A2-E1BB02D77303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0FD27A-EC8E-4AF4-B9A2-E1BB02D77303}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BB385DE-3045-4835-BFF1-896745B57494}
+	EndGlobalSection
+EndGlobal
